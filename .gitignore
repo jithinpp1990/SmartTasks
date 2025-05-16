@@ -1,0 +1,19 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+.vs
+
+# EF Core
+Migrations/
+
+# Angular
+UI/SmartTasks/node_modules/
+UI/SmartTasks/dist/
+UI/SmartTasks/.angular/
+
+# OS
+.DS_Store
+.env
