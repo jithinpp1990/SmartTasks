@@ -1,7 +1,3 @@
-// <copyright file="TaskRepository.cs" company="PlaceholderCompany">
-// Copyright (c) PlaceholderCompany. All rights reserved.
-// </copyright>
-
 namespace SmartTasks.Data.Implimentation;
 
 using SmartTasks.Data.Interface;

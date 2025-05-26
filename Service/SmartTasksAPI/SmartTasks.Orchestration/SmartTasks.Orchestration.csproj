@@ -9,7 +9,6 @@
   <ItemGroup>
     <Folder Include="DIExtention/" />
     <Folder Include="Implimentation/" />
-    <Folder Include="Interface/" />
   </ItemGroup>
 
   <ItemGroup>
